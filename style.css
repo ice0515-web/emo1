@@ -1,0 +1,9 @@
+body {
+  background-color: #f0f0f0; /* 輸入 bgc#f0f0f0 按Tab自動完成 */
+  font-size: 16px; /* 輸入 fs16 按Tab自動完成 */
+  line-height: 1.5; /* 輸入 lh1.5 按Tab自動完成 */
+}
+.container {
+  width: 960px; /* 輸入 w960 按Tab自動完成 */
+  margin: 0 auto; /* 輸入m0a按Tab自動完成 */
+}
